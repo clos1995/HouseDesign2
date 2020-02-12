@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HouseDesign</string>
+    <string-array name="rooms">
+        <item>Hall</item>
+        <item>Bedroom</item>
+        <item>Kitchen</item>
+        <item>Toilet</item>
+        <item>Free Space</item>
+    </string-array>
+</resources>
